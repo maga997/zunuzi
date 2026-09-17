@@ -1,0 +1,9 @@
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({
+event: "search_teacher",
+  subject_category: "Music",
+  subject: "Acoustic Guitar",
+  sort_by: "relevance",
+  results_count: 24,
+  logged_in: false
+});
